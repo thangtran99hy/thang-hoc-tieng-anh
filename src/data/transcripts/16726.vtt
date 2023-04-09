@@ -1,0 +1,95 @@
+WEBVTT
+
+00:16.387 --> 00:20.359
+So, if you're in the audience today or maybe you're watching this talk in some other time or place,...
+
+00:20.781 --> 00:23.631
+...you are a participant in the digital rights ecosystem.
+
+00:24.125 --> 00:30.627
+Now whether you're an artist, a technologist, a lawyer or a fan, the handling of copyright directly impacts your life.
+
+00:31.221 --> 00:39.583
+A rights management is no longer simply a question of ownership, it's a complex web of relationships and a critical part of our cultural landscape.
+
+00:40.353 --> 00:43.103
+YouTube cares deeply about the rights of content owners,...
+
+00:43.768 --> 00:48.592
+...but in order to give them choices about what they can do with copies, mashups and more,...
+
+00:49.091 --> 00:52.797
+...we need to first identify when copyrighted material is uploaded to our site.
+
+00:53.780 --> 00:56.409
+Let's look at this specific video so you can see how it works.
+
+00:56.886 --> 01:01.193
+Two years ago, recording artist Chris Brown released the official video of his single "Forever."
+
+01:02.173 --> 01:07.224
+A fan saw it on TV, recorded it with her camera phone, and uploaded it to YouTube.
+
+01:08.010 --> 01:15.481
+Now because Sony Music had registered Chris Brown's video in our Content ID system, within seconds of attempting to upload the video,...
+
+01:15.567 --> 01:19.574
+...the copy was detected, giving Sony the choice of what to do next.
+
+01:20.101 --> 01:22.710
+But how do we know that the user's video is a copy?
+
+01:23.727 --> 01:31.907
+Well, it starts with content owners delivering assets into our database, along with a usage policy that tells us what to do when we find a match.
+
+01:33.544 --> 01:37.921
+We compare each upload against all of the reference files in our database.
+
+01:39.003 --> 01:42.071
+Now, this heat map is gonna show you how the brain of the system works.
+
+01:42.445 --> 01:47.033
+Here we can see the original reference file being compared to the user generated content.
+
+01:48.342 --> 01:52.255
+The system compares every moment of one to the other to see if there's a match.
+
+01:52.605 --> 01:57.353
+Now, this means that we can identify a match even if the copy used is just a portion of the original file,...
+
+01:57.731 --> 02:01.438
+...plays it in slow motion and has degraded audio and video quality.
+
+02:02.807 --> 02:06.668
+And we do this every time that a video is uploaded to YouTube.
+
+02:06.823 --> 02:09.374
+And that's over 20 hours of video every minute.
+
+02:10.263 --> 02:14.461
+When we find a match, we apply the policy that the rights owner has set down.
+
+02:16.007 --> 02:19.618
+And the scale and the speed of this system is truly breathtaking.
+
+02:20.611 --> 02:27.928
+We're not just talking about a few videos, we're talking about over 100 years of video every day,...
+
+02:28.253 --> 02:33.315
+...between new uploads and the legacy scans we regularly do across all of the content on the site.
+
+02:34.667 --> 02:39.911
+And we compare those hundred years of video, we're comparing it against millions of reference files in our database.
+
+02:40.339 --> 02:47.543
+It would be like 36,000 people staring at 36,000 monitors each and every day, without so much as a coffee break.
+
+02:48.175 --> 02:50.355
+Now, what do we do when we find a match?
+
+02:51.876 --> 02:56.259
+Well, most rights owners, instead of blocking, will allow the copy to be published.
+
+02:56.525 --> 03:00.413
+And then they benefit through the exposure, advertising and linked sales.
+

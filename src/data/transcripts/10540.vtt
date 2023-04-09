@@ -1,0 +1,122 @@
+WEBVTT
+
+00:19.679 --> 00:21.135
+So, as researchers,...
+
+00:21.277 --> 00:25.566
+...something we often do is use immense resources to achieve certain capabilities...
+
+00:25.600 --> 00:27.000
+...or achieve certain goals...
+
+00:27.300 --> 00:31.450
+...and this is essential to the progress of science or exploration of what is possible.
+
+00:31.587 --> 00:34.103
+But it sorta creates this unfortunate situation...
+
+00:34.202 --> 00:36.021
+...where a tiny, tiny fraction of the world...
+
+00:36.000 --> 00:38.100
+...can actually participate in this exploration...
+
+00:38.200 --> 00:40.000
+...or can benefit from that technology.
+
+00:40.150 --> 00:43.350
+And something that motivates me, and what gets me really excited about my research...
+
+00:43.400 --> 00:47.250
+...is when I see simple opportunities to drastically change that distribution,...
+
+00:47.400 --> 00:51.100
+...and then, make the technology accessible to a much wider percentage of the population.
+
+00:51.350 --> 00:54.400
+And I'm gonna show you two videos that have gotten a lot of attention recently...
+
+00:54.820 --> 00:56.400
+...that I think embody this philosophy.
+
+00:56.600 --> 00:59.000
+And they actually use the Nintendo Wii remote.
+
+00:59.465 --> 01:01.605
+Now, for those of you who aren't familiar with this device,...
+
+01:01.686 --> 01:04.268
+...it's a 40-dollar video game controller...
+
+01:04.400 --> 01:07.400
+...and it's mostly advertised for its motion sensing capabilities,...
+
+01:07.450 --> 01:09.900
+...so you can swing a tennis racket or hit a baseball bat.
+
+01:10.550 --> 01:14.450
+But what actually interests me a lot more is the fact that in the tip of each controller...
+
+01:14.550 --> 01:17.400
+...is a relatively high-performing infrared camera,...
+
+01:17.650 --> 01:21.900
+...and I'm gonna show you two demos of why this is useful.
+
+01:22.400 --> 01:25.050
+So, here I have my computer setup with the projector...
+
+01:25.100 --> 01:27.200
+...and I have a Wii remote sitting on top of it.
+
+01:27.500 --> 01:31.200
+And if for example, if you're in a school that doesn't have a lot of money,...
+
+01:31.250 --> 01:32.600
+...which is probably a lot of schools...
+
+01:32.750 --> 01:36.000
+...or if you're in an office environment, and you want an interactive whiteboard,...
+
+01:36.150 --> 01:39.050
+...normally, this costs about two to three thousand dollars.
+
+01:39.100 --> 01:42.600
+So, what I'm going to show you how to do is how to create one with a Wii remote.
+
+01:43.350 --> 01:48.450
+Now, this requires another piece of hardware, which is this infrared pen.
+
+01:48.850 --> 01:52.500
+You can probably make this yourself for about five dollars with a quick trip to the Radio Shack.
+
+01:52.700 --> 01:55.700
+It's essentially got a battery, a button and an infrared LED,...
+
+01:55.800 --> 01:59.100
+...and it turns on, you guys can't see it but it turns on whenever I push the button.
+
+01:59.200 --> 02:03.100
+Now, what this means is that if I run this piece of software,...
+
+02:04.050 --> 02:05.500
+...I can now register,...
+
+02:05.550 --> 02:07.500
+...the camera sees the infrared dot...
+
+02:08.250 --> 02:13.450
+...and I can register the location of the camera pixels to the projector pixels,...
+
+02:13.650 --> 02:15.900
+...and now, this is an interactive whiteboard surface.
+
+02:18.100 --> 02:21.600
+So, for about 50 dollars of hardware, you can have your own whiteboard.
+
+02:22.050 --> 02:23.900
+This is Adobe Photoshop.
+
+02:29.950 --> 02:30.300
+Thank you.
+

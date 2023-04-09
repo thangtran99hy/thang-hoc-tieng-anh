@@ -1,0 +1,17 @@
+[
+    "Have you ever really wanted a beer,...",
+    "...but you don't wanna stop working?",
+    "At Willow Garage, we've solved this problem.",
+    "We built a Web interface that has a menu of a number of different beers that you can select from.",
+    "Once you select the beer of your choice, you can place it in the \"beer bucket\"...",
+    "...and then, select the location of your choice for the robot to drive to.",
+    "Once those two things are completed, you simply click the big \"beer me\" button...",
+    "...and the robot comes to you to deliver your beer.",
+    "In this process, the robot goes to the fridge,...",
+    "...detects the handle of the fridge and opens it,...",
+    "...looks inside of the fridge and uses its cameras to detect what kinds of beers are available.",
+    "If the beers you've selected are not available,...",
+    "...the robot will inform you that your choice is not available at this time.",
+    "Otherwise, the robot picks the beers that you've selected from the fridge,...",
+    "...puts them in the cup holders mounted on its base and delivers them to the location that you've selected."
+]

@@ -1,68 +1,109 @@
-import logo from "./logo.svg";
-import "./App.css";
-import Music from "./pages/Music";
+import './App.css';
+import Music from './pages/Music';
 import {
-    BookFilled,
-    VideoCameraFilled,
-    PlayCircleFilled,
-    CustomerServiceFilled,
-    CheckCircleFilled,
-} from "@ant-design/icons";
-import { Tabs } from "antd";
-import Video from "./pages/Video";
-import Movies from "./pages/Movies";
-import Book from "./pages/Book";
-import EffortlessEnglish from "./pages/EffortlessEnglish";
+  BookFilled,
+  VideoCameraFilled,
+  PlayCircleFilled,
+  CustomerServiceFilled,
+  CheckCircleFilled,
+} from '@ant-design/icons';
+import { Tabs } from 'antd';
+import Video from './pages/Video';
+import Movies from './pages/Movies';
+import Book from './pages/Book';
+import EffortlessEnglish from './pages/EffortlessEnglish';
+import { useState } from 'react';
 function App() {
-    const tabs = [
-        {
-            code: "music",
-            label: "Music",
-            component: Music,
-            icon: CustomerServiceFilled,
-        },
-        {
-            code: "video",
-            label: "Video",
-            component: Video,
-            icon: PlayCircleFilled,
-        },
-        {
-            code: "movies",
-            label: "Movies",
-            component: Movies,
-            icon: VideoCameraFilled,
-        },
-        {
-            code: "book",
-            label: "Book",
-            component: Book,
-            icon: BookFilled,
-        },
-        {
-            code: "effortlessEnglish",
-            label: "Effortless English",
-            component: EffortlessEnglish,
-            icon: CheckCircleFilled,
-        },
-    ];
-    return (
-        <Tabs
-            className="App_container"
-            items={tabs.map((tab, i) => {
-                return {
-                    label: (
-                        <div className="flex items-center px-2">
-                            <tab.icon />
-                            <div>{tab.label}</div>
-                        </div>
-                    ),
-                    key: tab.code,
-                    children: <tab.component />,
-                };
-            })}
+  const [tabActive, setTabActive] = useState(null);
+  const tabs = [
+    {
+      code: 'music',
+      label: 'Music',
+      component: Music,
+      icon: CustomerServiceFilled,
+    },
+    {
+      code: 'video',
+      label: 'Video',
+      component: Video,
+      icon: PlayCircleFilled,
+    },
+    {
+      code: 'movies',
+      label: 'Movies',
+      component: Movies,
+      icon: VideoCameraFilled,
+    },
+    {
+      code: 'book',
+      label: 'Book',
+      component: Book,
+      icon: BookFilled,
+    },
+    {
+      code: 'effortlessEnglish',
+      label: 'Effortless English',
+      component: EffortlessEnglish,
+      icon: CheckCircleFilled,
+    },
+  ];
+
+  const showTabView = () => {
+    switch (tabActive) {
+      case 'music':
+        return <Music />;
+      case 'video':
+        return <Video />;
+      case 'movies':
+        return <Movies />;
+      case 'book':
+        return <Book />;
+      case 'effortlessEnglish':
+        return <EffortlessEnglish />;
+      default:
+        return <></>;
+    }
+  };
+  return (
+    <div className="flex flex-col h-[100vh]">
+      <div className="flex flex-col items-center h-[60px]">
+        <div className="text-gray-600 text-xs font-semibold">
+          Thắng Nói Tiếng Anh
+        </div>
+        <img
+          className="w-[36px] h-[36px] rounded-full"
+          src={require('./assets/images/avatar.jpg')}
         />
-    );
+      </div>
+      <Tabs
+        defaultValue={'video'}
+        className="App_container"
+        items={tabs.map((tab, i) => {
+          return {
+            label: (
+              <div className="flex items-center px-2">
+                <tab.icon />
+                <div>{tab.label}</div>
+              </div>
+            ),
+            key: tab.code,
+            children: <></>,
+          };
+        })}
+        onChange={(key) => {
+          setTabActive(key);
+        }}
+      />
+      <div
+        className="flex-1"
+        style={{
+          height: 'calc(100vh - 150px)',
+        }}
+      >
+        {showTabView()}
+      </div>
+    </div>
+  );
 }
 
 export default App;

@@ -1,0 +1,68 @@
+WEBVTT
+
+00:00.549 --> 00:02.402
+Project Bloks is a research project,...
+
+00:02.621 --> 00:04.989
+...and our goal is to create an open hardware platform...
+
+00:05.329 --> 00:07.469
+...in which developers, makers and designers...
+
+00:07.838 --> 00:10.446
+...can create hands-on programming experiences for kids.
+
+00:11.540 --> 00:14.817
+As a first step, we've created a system for tangible programming...
+
+00:15.770 --> 00:18.315
+...and this system consists of three main components:...
+
+00:18.636 --> 00:21.663
+...the brain board, base boards and pucks.
+
+00:22.839 --> 00:25.067
+The base board works by placing a puck onto it,...
+
+00:25.830 --> 00:28.215
+...and pucks can be programmed with different instructions...
+
+00:28.311 --> 00:32.887
+...like turn on or off, move in a direction or increase amount.
+
+00:33.895 --> 00:36.395
+The board then simply reads that puck's instruction.
+
+00:37.361 --> 00:40.057
+The brain board provides power and connectivity,...
+
+00:40.609 --> 00:43.909
+...and when you connect base boards to it, it can read their instructions...
+
+00:44.041 --> 00:47.372
+...and send them to connected objects like a toy or a tablet.
+
+00:48.157 --> 00:50.427
+The boards can be rearranged in different ways...
+
+00:51.011 --> 00:52.955
+...and wrapped in different forms and materials...
+
+00:53.491 --> 00:55.841
+...to create all sorts of physical coding experiences.
+
+00:56.615 --> 01:00.603
+Like a music maker, where you use physical code to compose music...
+
+01:01.143 --> 01:02.677
+...and send it to a wireless speaker.
+
+01:03.483 --> 01:06.759
+The ultimate aim of Project Bloks is to give all the work we've done...
+
+01:06.868 --> 01:10.573
+...back to the education research and development community for free...
+
+01:10.929 --> 01:13.132
+...to accelerate the field of physical programming for kids.
+

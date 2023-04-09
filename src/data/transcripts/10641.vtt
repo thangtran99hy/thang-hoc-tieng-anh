@@ -1,0 +1,80 @@
+WEBVTT
+
+00:00.250 --> 00:04.700
+Robots are pieces of software that can be added to a Wave like a participant...
+
+00:04.900 --> 00:06.750
+...and in fact, can act like a participant.
+
+00:07.000 --> 00:09.150
+They can do anything a person can do on the Wave.
+
+00:09.400 --> 00:11.350
+They can watch the typing that's going on.
+
+00:11.550 --> 00:13.550
+They can add other participants to the Wave.
+
+00:13.750 --> 00:15.600
+And in fact, they can even write into the Wave.
+
+00:16.100 --> 00:18.150
+Let me show you another extension to Wave...
+
+00:18.200 --> 00:21.200
+...that lets you interface to a different communication system.
+
+00:21.500 --> 00:25.500
+I'll start a new Wave and I'll add my friend, Tweety the Twitbot.
+
+00:26.500 --> 00:28.550
+As you can see, Tweety puts in a form.
+
+00:28.950 --> 00:31.500
+I'm gonna sign in with my Twitter username and password.
+
+00:32.250 --> 00:33.750
+Unfortunately, it's "Twephanie".
+
+00:37.150 --> 00:39.900
+When I submit that form, the robot notices it...
+
+00:40.100 --> 00:44.800
+...and goes, and uses Twitter's API to get updates from the people I follow.
+
+00:48.500 --> 00:50.100
+I can also put in my own update.
+
+01:01.150 --> 01:05.500
+Tweety notices that and uses the Twitter APIs to update my Twitter account.
+
+01:06.000 --> 01:09.750
+You can also use Tweety to search over the public timeline of Twitter.
+
+01:10.400 --> 01:13.500
+Imagine, there's a phrase I care a lot about, like Google Wave.
+
+01:13.850 --> 01:15.150
+I can enter it here...
+
+01:16.650 --> 01:21.100
+...and Tweety will use the API to pull in Tweets with that word in them.
+
+01:21.550 --> 01:25.650
+This way, you can use Tweety to be an alert or alarm for a phrase you care about.
+
+01:26.200 --> 01:28.300
+I can actually leave this Wave in my account...
+
+01:28.500 --> 01:32.050
+...and anytime there's a new match, this Wave will become active for me.
+
+01:32.350 --> 01:34.200
+I can open it and see the new content.
+
+01:34.750 --> 01:37.600
+Robots can be used to interface to other systems.
+
+01:37.900 --> 01:41.400
+In this case, it was Twitter but it could be anything with an API.
+

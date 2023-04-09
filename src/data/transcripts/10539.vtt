@@ -1,0 +1,92 @@
+WEBVTT
+
+00:12.050 --> 00:13.500
+But I wanna show you a different approach,...
+
+00:13.750 --> 00:15.500
+...and this is this robot over here,..
+
+00:16.150 --> 00:22.050
+...which has four legs. It has eight motors, four on the knees and four on the hip.
+
+00:22.100 --> 00:27.200
+It has also two tilt sensors that tell the machine how it... which way it's tilting.
+
+00:27.700 --> 00:30.400
+But this machine doesn't know what it looks like.
+
+00:30.450 --> 00:31.950
+You look at it and you see it has four legs,..
+
+00:32.000 --> 00:34.200
+...the machine doesn't know if it's a snake, if it's a tree,...
+
+00:34.400 --> 00:36.600
+...it doesn't have any idea what it looks like,...
+
+00:36.750 --> 00:38.400
+...but it's gonna try to find that out.
+
+00:38.450 --> 00:40.700
+So initially, it does some random motion...
+
+00:41.350 --> 00:43.900
+...and it then... it tries to figure out what it might look like,...
+
+00:43.950 --> 00:46.000
+...and you're seeing a lot of things passing through its mind.
+
+00:46.133 --> 00:48.263
+There's a lot of self-models...
+
+00:48.345 --> 00:51.567
+...that try to explain the relationship between actuation and sensing,...
+
+00:51.800 --> 00:53.600
+...and then, tries to do a second action...
+
+00:53.967 --> 00:58.708
+...that creates the most disagreement among predictions of these alternative models,...
+
+00:58.789 --> 01:00.081
+...like a scientist in a lab.
+
+01:00.200 --> 01:04.700
+Then it does that and tries to explain that, and prune out its self-models.
+
+01:04.750 --> 01:06.700
+This is already the last cycle...
+
+01:06.800 --> 01:10.100
+...and you can see it's pretty much figured out what itself looks like,...
+
+01:10.150 --> 01:15.800
+...and once it has a self-model, it can use that to derive a pattern of locomotion.
+
+01:15.850 --> 01:19.900
+So, what you're seeing here are a couple of machines... a pattern of locomotion.
+
+01:19.950 --> 01:24.000
+We were hoping that it's gonna have a kind of evil, spidery walk...
+
+01:24.050 --> 01:28.100
+...but instead, it created this pretty lame way of moving forward.
+
+01:28.150 --> 01:29.200
+But when you look at that,...
+
+01:29.550 --> 01:36.350
+...you have to remember that this machine did not do any physical trials on how to move forward...
+
+01:36.550 --> 01:38.400
+...nor did it have a model of itself.
+
+01:38.450 --> 01:40.100
+It kinda figured out what it looks like...
+
+01:40.350 --> 01:41.400
+...and how to move forward,...
+
+01:41.550 --> 01:45.400
+...and then, actually tried that out.
+

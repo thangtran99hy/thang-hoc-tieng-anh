@@ -1,0 +1,194 @@
+WEBVTT
+
+00:01.627 --> 00:04.764
+How powerful can scientists make a computer chip?
+
+00:06.111 --> 00:09.397
+By the turn of the millennium, experts said that tiny chips...
+
+00:09.653 --> 00:15.029
+...packed more and more densely with hundreds of millions of transistors would generate too much heat.
+
+00:15.749 --> 00:21.572
+So scientists at Intel developed technologies that enable a microprocessor to do more.
+
+00:22.384 --> 00:25.477
+Well, the Core i7 is a pretty radical redesign.
+
+00:25.983 --> 00:30.637
+In fact, it's one of the biggest changes in the way the PC works in quite a while.
+
+00:31.106 --> 00:36.659
+So the things we've done are kind of open it up so that it can be fed...
+
+00:36.747 --> 00:39.585
+...open the processor up so that you can feed it with the data better.
+
+00:39.980 --> 00:43.416
+Intel did this with a number of innovations such as:...
+
+00:43.523 --> 00:48.087
+...moving the memory controller onto the chip to achieve higher memory bandwidth,...
+
+00:48.455 --> 00:55.519
+...turbo boost technology, which increases frequency when the processor detects it has available power headroom,...
+
+00:56.203 --> 01:01.727
+...and an integrated power gate, which shuts off power to those cores which aren't in use.
+
+01:04.540 --> 01:11.383
+Scientists like Intel Fellow Glenn Hinton say the technology has increased performance and energy efficiency.
+
+01:11.798 --> 01:16.209
+The guys in the power management team did a lot of work to reduce the overall...
+
+01:17.185 --> 01:21.557
+...and actively manage the power so that if one core is running we get a lot of power to that sort,...
+
+01:21.691 --> 01:23.639
+...run really high-performance, that's turbo mode.
+
+01:23.745 --> 01:30.811
+And if all the cores are working, we adjust the frequency and voltage to make everything work well.
+
+01:30.983 --> 01:37.685
+And so, that whole very active power management went way beyond anything we've done on any of our previous chips.
+
+01:38.261 --> 01:48.381
+At Intel's lab in Silicon Valley, engineers test the Core i7 in a variety of hardware and software configurations especially in high-end gaming.
+
+01:49.303 --> 01:57.201
+I manage a group of guys that our job is to look at the products that Intel is going to be producing and try to explain the benefits...
+
+01:57.281 --> 02:01.733
+...in terms that people can understand, that they can relate to things they really do with the PC.
+
+02:02.187 --> 02:10.137
+So instead of just talking about this thing is 50 percent faster, we try to find ways to say, "Okay, what can I do with that 50 percent?"
+
+02:10.779 --> 02:17.369
+So what Regina is doing here is she's actually going in and playing this game that recently was released.
+
+02:17.801 --> 02:25.431
+And she'll try out a variety of different settings, whether it's the screen resolution or the quality settings in the game.
+
+02:25.922 --> 02:30.234
+So whenever a new game is launched, she has to spend just hours in here.
+
+02:30.399 --> 02:37.977
+It's a terrible job, going through and playing that game over and over and over again until she comes up with the right settings.
+
+02:38.350 --> 02:38.861
+It's hard.
+
+02:39.073 --> 02:39.876
+And the right test.
+
+02:39.994 --> 02:41.011
+And the right test.
+
+02:43.813 --> 02:48.567
+Francois Piednoel is testing the Core i7 here on an Intel motherboard.
+
+02:49.129 --> 02:55.215
+So far, he has observed bandwidth that is two times higher than on a previous quad-core microprocessor.
+
+02:56.413 --> 03:03.568
+So you got the processor, you got the board and for six months you try to figure out where's the problem. Here or here?
+
+03:04.344 --> 03:10.136
+And it's a ping-pong between the architecture team. And I'm sitting in the middle,...
+
+03:10.425 --> 03:13.997
+...taking from the right hand to the left hand and trying to exchange.
+
+03:14.655 --> 03:17.810
+We've got a lot of smart people working on this; it's a huge team.
+
+03:18.295 --> 03:25.891
+This is the lab where we're doing a lot of the functional validation of Nehalem, making sure that it's a good, robust part as we launch it...
+
+03:26.058 --> 03:31.123
+...and bring it to consumers. We also check our performance and labs just like this up here in Oregon...
+
+03:31.516 --> 03:34.837
+...as we have our architecture design and validation teams all co-located here.
+
+03:35.269 --> 03:42.237
+The design of the Core i7, code-named "Nehalem" in the lab, involved thousands of engineers in places such as...
+
+03:42.321 --> 03:47.324
+...Oregon, California and Arizona, and in Malaysia and Costa Rica.
+
+03:48.287 --> 03:53.619
+Rani Borkar oversaw the development of the microprocessor across Intel's many organizations,...
+
+03:53.885 --> 03:58.827
+...handling tasks like architecture and design, manufacturing, testing and debugging.
+
+03:59.092 --> 04:03.750
+Of course we have structures and over time we've learned to make these structures...
+
+04:03.825 --> 04:08.079
+...better and better so that it really progresses very seamlessly.
+
+04:08.298 --> 04:11.645
+Because the timelines, one thing which is constant is the timeline,...
+
+04:11.718 --> 04:14.676
+...when you're going to deliver and what you said you will deliver.
+
+04:15.003 --> 04:17.847
+Intel delivers chips on its Tick Tock model.
+
+04:18.154 --> 04:24.425
+The Tick represents advances and processed technologies such as from 65 nanometer to 45,...
+
+04:24.771 --> 04:31.291
+...which was Penryn in 2007. The Tock is a new micro architecture, in this case "Nehalem."
+
+04:31.692 --> 04:37.187
+With the Tock processor, we get the chance to overhaul complete micro architecture as well as the platform.
+
+04:37.309 --> 04:43.417
+The internal of the core has been changed significantly for added performance as well as for better energy efficiency.
+
+04:44.683 --> 04:49.838
+So one of the fun things we've been doing even on the previous projects is from an individual contributor's role,...
+
+04:50.247 --> 04:54.840
+...when their piece of the design is done and what we locally call "putting it in the freezer",...
+
+04:55.489 --> 04:57.520
+...you go and give them a gold balloon.
+
+04:57.601 --> 05:02.109
+I've been working on Nehalem since 2003 and so when we eventually get silicon,...
+
+05:02.197 --> 05:04.949
+...one of the key moments is the first silicon in the lab...
+
+05:05.044 --> 05:09.220
+...and getting it to actually boot a real operating system and run real applications.
+
+05:11.171 --> 05:13.894
+People compare it to a parent, seeing their baby for the first time.
+
+05:14.049 --> 05:21.027
+It's both the design engineers, the circuit technology folks, the circuit designers, the validation people,...
+
+05:21.225 --> 05:26.019
+...architects, all of the design team; it's a huge project, a huge team.
+
+05:28.816 --> 05:31.342
+This is rocket science, this is hard stuff.
+
+05:31.745 --> 05:33.555
+This is our baby, our new baby.
+
+05:33.658 --> 05:39.255
+This is our new baby, this is the Intel Core i7 microprocessor.
+
+05:42.179 --> 05:44.397
+This is the fastest processor on the planet.
+

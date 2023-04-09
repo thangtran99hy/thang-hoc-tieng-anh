@@ -1,0 +1,83 @@
+WEBVTT
+
+00:05.601 --> 00:11.190
+Intel Anti - Theft Technology includes built-in intelligence that detects potential theft situations...
+
+00:11.246 --> 00:13.649
+...and responds according to a set IT policy.
+
+00:14.701 --> 00:18.171
+For example, if an unauthorized user tries to change the BIOS...
+
+00:18.294 --> 00:19.735
+...or the firmware of the PC,...
+
+00:19.961 --> 00:23.059
+...or if the notebook is not rendezvoused with the central security server...
+
+00:23.141 --> 00:24.511
+...within a predetermined interval,...
+
+00:24.750 --> 00:28.198
+...a hardware - based local timer will expire and trigger a response.
+
+00:31.195 --> 00:33.359
+Or if the number of failed log in attempts...
+
+00:33.457 --> 00:36.255
+...in a pre - OS screen reaches a policy - based limit,...
+
+00:37.097 --> 00:40.158
+...it also triggers a response that can stop the OS from booting...
+
+00:40.446 --> 00:43.651
+...or deletes important encryption keys, disabling data access.
+
+00:45.497 --> 00:47.849
+If a user calls me to report a stolen notebook,...
+
+00:47.985 --> 00:49.607
+...I simply flag it in our database.
+
+00:50.654 --> 00:53.601
+Synchronization occurs whenever the notebook connects to the Internet.
+
+00:54.598 --> 00:58.597
+When that happens, a poison pill can be sent, rendering the notebook inoperable.
+
+01:00.199 --> 01:01.851
+If the PC is 3G - enabled,...
+
+01:02.087 --> 01:06.185
+...it can quickly receive a poison pill via an encrypted SMS message.
+
+01:07.292 --> 01:11.946
+3G connections can now occur out-of-band, without OS or BIOS dependencies,...
+
+01:12.050 --> 01:15.607
+...significantly reducing the window of time to respond to PC theft.
+
+01:18.850 --> 01:23.901
+The poison pill can delete the encryption keys and user credentials required to access data on the hard drive.
+
+01:25.497 --> 01:30.087
+And because Intel Anti - Theft Technology enables that data to be stored in the chipset,...
+
+01:30.344 --> 01:31.748
+...our data is fully protected,...
+
+01:32.288 --> 01:36.257
+...even if someone who knew the credentials tries to access the hard drive on another PC.
+
+01:37.291 --> 01:41.850
+Thieves or disgruntled employees have no means of unlocking the data on the hard drive.
+
+01:42.847 --> 01:46.899
+Both the PC and the hard drive data become completely useless when disabled.
+
+01:48.154 --> 01:54.740
+A new "Location on Demand" feature enables me to query the GPS coordinates of the missing PC via the 3G connection.
+
+01:57.148 --> 02:01.951
+Discover more about how Intel Anti - Theft Technology can help protect your PCs and data.
+

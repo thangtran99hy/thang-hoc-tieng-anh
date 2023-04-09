@@ -1,0 +1,71 @@
+WEBVTT
+
+00:01.130 --> 00:05.300
+Rakuten Travel operates Japan's largest internet hotel reservation site,...
+
+00:05.630 --> 00:09.670
+...serving an accumulative total of over 100 million users as of 2008.
+
+00:10.870 --> 00:14.040
+The reason we upgraded to Oracle Database 11G...
+
+00:14.580 --> 00:18.450
+...was to serve more customers by expanding the system capability.
+
+00:20.680 --> 00:26.990
+Another reason for upgrading to Oracle Database 11G was to boost data search speeds.
+
+00:31.890 --> 00:35.030
+Currently, we are using Oracle Automatic Storage Management...
+
+00:35.360 --> 00:39.630
+...and Oracle Clusterware as a foundation for all our Rakuten Travel systems.
+
+00:41.000 --> 00:45.440
+In addition, we are using Oracle Enterprise Manager for managing operations.
+
+00:49.150 --> 00:51.180
+We chose Oracle Database products,...
+
+00:51.380 --> 00:57.120
+...primarily because they enable us to offer a more stable service to our customers on a continuous basis.
+
+00:57.850 --> 01:02.260
+Also, we highly value Oracle's extremely comprehensive support system.
+
+01:05.360 --> 01:08.460
+By investing in Oracle database and hardware upgrades,...
+
+01:08.900 --> 01:12.630
+...we have been able to achieve a 60% increase in performance,...
+
+01:13.130 --> 01:16.670
+...providing the maximum return for the least investment.
+
+01:20.410 --> 01:22.780
+By using Automatic Storage Management,...
+
+01:23.080 --> 01:26.680
+...we have been able to reduce operational and management cost,...
+
+01:26.880 --> 01:32.650
+...by eliminating the work our database engineers had to perform two to three times a month.
+
+01:35.690 --> 01:40.160
+In the past when we needed to add nodes, we had to shut down the database system.
+
+01:40.660 --> 01:45.170
+But now with the adoption of Oracle Clusterware, we are able to add nodes online,...
+
+01:45.430 --> 01:48.140
+...reducing the amount of downtime to the bare minimum.
+
+01:50.270 --> 01:52.670
+Amid the current austere economic conditions,...
+
+01:53.140 --> 01:57.450
+...Oracle has helped us a great deal: generating the maximum return...
+
+01:57.910 --> 02:00.750
+...whilst cutting downtime and keeping cost to the minimum.
+

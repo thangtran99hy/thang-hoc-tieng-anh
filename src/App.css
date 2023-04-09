@@ -1,11 +1,50 @@
-.App_container .ant-tabs-content-holder{
-  height: calc(100vh - 70px);
+* {
+  font-family: 'Rubik', sans-serif;
 }
 
-.App_container .ant-tabs-content {
-  height: 100%;
+.ant-tabs-nav {
+  margin: 0;
+}
+video::cue {
+  color: white; /* set text color */
+  font-size: 16px; /* set font size */
+  text-shadow: 1px 1px black; /* add text shadow */
+  background-color: rgba(
+    0,
+    0,
+    0,
+    0.7
+  ); /* set background color with opacity */
+  border-radius: 10px; /* add border radius */
+  padding: 5px; /* add padding */
 }
 
-.App_container .ant-tabs-tabpane {
-  height: 100%;
+@media (max-width: 600px) {
+  video::cue {
+    font-size: 16px;
+  }
+}
+
+@media (min-width: 600px) and (max-width: 800px) {
+  video::cue {
+    font-size: 18px;
+  }
+}
+
+@media (min-width: 800px) and (max-width: 1000px) {
+  video::cue {
+    font-size: 20px;
+  }
+}
+
+@media (min-width: 1000px) and (max-width: 1200px) {
+  video::cue {
+    font-size: 24px;
+  }
+}
+
+@media (min-width: 1200px) {
+  video::cue {
+    font-size: 28px;
+  }
 }

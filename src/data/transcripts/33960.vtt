@@ -1,0 +1,119 @@
+WEBVTT
+
+00:16.121 --> 00:22.216
+Up until now, our communication with machines has always been limited to conscious and direct forms.
+
+00:22.678 --> 00:25.795
+Whether it's something simple like turning on the lights with a switch,...
+
+00:26.257 --> 00:29.034
+...or even as complex as programming robotics,...
+
+00:29.590 --> 00:34.129
+...we have always had to give a command to a machine, or even a series of commands,...
+
+00:34.231 --> 00:36.070
+...in order for it to do something for us.
+
+00:36.904 --> 00:39.085
+Communication between people, on the other hand,...
+
+00:39.371 --> 00:42.322
+...is far more complex and a lot more interesting...
+
+00:42.596 --> 00:46.643
+...because we take into account so much more than what is explicitly expressed.
+
+00:47.283 --> 00:50.203
+We observe facial expressions, body language,...
+
+00:50.495 --> 00:54.386
+...and we can intuit feelings and emotions from our dialogue with one another.
+
+00:55.285 --> 00:58.362
+This actually forms a large part of our decision-making process.
+
+00:59.760 --> 01:03.867
+Our vision is to introduce this whole new realm of human interaction...
+
+01:04.281 --> 01:08.193
+...into human-computer interaction so that computers can understand...
+
+01:08.544 --> 01:10.309
+...not only what you direct it to do,...
+
+01:10.673 --> 01:15.548
+...but it can also respond to your facial expressions and emotional experiences.
+
+01:16.323 --> 01:19.773
+And what better way to do this than by interpreting the signals...
+
+01:19.881 --> 01:24.287
+...naturally produced by our brain, our center for control and experience.
+
+01:25.392 --> 01:29.391
+Well, it sounds like a pretty good idea, but this task, as Bruno mentioned,...
+
+01:29.513 --> 01:35.023
+...isn't an easy one for two main reasons: First, the detection algorithms.
+
+01:35.796 --> 01:38.911
+Our brain is made up of billions of active neurons,...
+
+01:39.143 --> 01:43.419
+...around 170,000 kilometers of combined axon length.
+
+01:44.179 --> 01:45.804
+When these neurons interact,...
+
+01:46.150 --> 01:49.719
+...the chemical reaction emits an electrical impulse, which can be measured.
+
+01:50.785 --> 01:56.624
+The majority of our functional brain is distributed over the outer surface layer of the brain,...
+
+01:57.034 --> 02:00.245
+...and to increase the area that's available for mental capacity,...
+
+02:00.687 --> 02:02.873
+...the brain surface is highly folded.
+
+02:03.465 --> 02:06.891
+Now, this cortical folding presents a significant challenge...
+
+02:06.968 --> 02:09.989
+...for interpreting surface electrical impulses.
+
+02:10.727 --> 02:16.073
+Each individual's cortex is folded differently, very much like a fingerprint.
+
+02:16.671 --> 02:20.422
+So even though a signal may come from the same functional part of the brain,...
+
+02:20.896 --> 02:22.845
+...by the time the structure has been folded,...
+
+02:23.257 --> 02:28.705
+...its physical location is very different between individuals, even identical twins.
+
+02:29.997 --> 02:33.211
+There is no longer any consistency in the surface signals.
+
+02:34.063 --> 02:38.397
+Our breakthrough was to create an algorithm that unfolds the cortex,...
+
+02:38.624 --> 02:41.611
+... so that we can map the signals closer to its source,...
+
+02:41.936 --> 02:45.389
+...and therefore making it capable of working across a mass population.
+
+02:46.692 --> 02:51.515
+The second challenge is the actual device for observing brainwaves.
+
+02:51.706 --> 02:56.021
+EEG measurements typically involve a hairnet with an array of sensors,...
+
+02:56.379 --> 02:58.545
+...like the one that you can see here in the photo.
+

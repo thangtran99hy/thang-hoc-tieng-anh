@@ -1,0 +1,74 @@
+WEBVTT
+
+00:00.429 --> 00:07.075
+As you might notice, the product of any number and multiplicative inverse is always one.
+
+00:07.658 --> 00:12.010
+If we want to divide by zero, we need to find its multiplicative inverse,...
+
+00:12.231 --> 00:14.625
+...which should be one over zero.
+
+00:15.117 --> 00:20.699
+This would have to be such a number that multiplying it by zero would give one.
+
+00:21.516 --> 00:25.133
+But because anything multiplied by zero is still zero,...
+
+00:25.387 --> 00:30.527
+...such a number is impossible, so zero has no multiplicative inverse.
+
+00:31.123 --> 00:34.673
+So if they can do that, couldn't we just make up a new rule,...
+
+00:34.976 --> 00:39.595
+...say that the symbol infinity means one over zero and see what happens?
+
+00:40.944 --> 00:44.981
+Let's try it, imagining we don't know anything about infinity already.
+
+00:45.275 --> 00:47.836
+Based on the definition of a multiplicative inverse,...
+
+00:48.035 --> 00:51.296
+...zero times infinity must be equal to one.
+
+00:51.637 --> 00:57.383
+That means zero times infinity plus zero times infinity should equal two.
+
+00:58.094 --> 00:59.843
+Now, by the disruptive property,...
+
+01:00.061 --> 01:05.703
+...the left side of the equation can be rearranged to zero plus zero times infinity.
+
+01:06.318 --> 01:09.387
+And since zero plus zero is definitely zero,...
+
+01:09.713 --> 01:12.915
+...that reduces down to zero times infinity.
+
+01:13.250 --> 01:16.791
+Unfortunately, we've already defined this as equal to one,...
+
+01:17.277 --> 01:21.251
+...while the other side of the equation is still telling us it's equal to two.
+
+01:21.677 --> 01:23.973
+So, one equals two.
+
+01:24.810 --> 01:31.045
+Oddly enough, that's not necessarily wrong; it's just not true in our normal world of numbers.
+
+01:31.687 --> 01:34.052
+There's still a way it could be mathematically valid,...
+
+01:34.336 --> 01:38.284
+...if one, two and every other number were equal to zero.
+
+01:38.693 --> 01:41.046
+But having infinity equal to zero,...
+
+01:41.325 --> 01:46.191
+...is ultimately not all that useful to mathematicians or anyone else.
+

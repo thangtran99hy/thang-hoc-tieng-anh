@@ -1,0 +1,71 @@
+WEBVTT
+
+00:03.039 --> 00:05.465
+Robots seem magical at times.
+
+00:07.281 --> 00:10.444
+They can move and act as if they have a life of their own.
+
+00:11.748 --> 00:15.725
+In movies like "Star Wars," they seem almost human.
+
+00:18.103 --> 00:22.256
+But in reality, everything a robot does is programmed in advance by the engineers...
+
+00:22.355 --> 00:24.223
+...who created it.
+
+00:25.979 --> 00:29.879
+Chad Jenkins of Brown University explains that useful robots...
+
+00:30.059 --> 00:33.147
+...must be able to sense, plan and act.
+
+00:33.536 --> 00:36.715
+We have to have robots that can sense and perceive the world,...
+
+00:37.116 --> 00:39.730
+...that can make decisions that will lead them to a goal,...
+
+00:40.038 --> 00:42.989
+...and then be able to act in a way that's going to perform that plan.
+
+00:44.533 --> 00:48.985
+By sensing, the robot takes in information from the world around it.
+
+00:49.329 --> 00:52.767
+They have to be able to perceive all of those things that we take for granted as humans.
+
+00:52.889 --> 00:55.565
+Being able to recognize a variety of different objects.
+
+00:57.632 --> 01:00.729
+Once the robot has gathered information from its senses,...
+
+01:00.915 --> 01:04.461
+...it needs to analyze that data in its onboard computer...
+
+01:04.884 --> 01:06.489
+...and plan a response.
+
+01:07.667 --> 01:13.651
+Finally, once it's sensed the situation and planned a response, the robot needs to act.
+
+01:14.552 --> 01:19.105
+We essentially are sending commands to the motors of the robot, and the robot is executing that.
+
+01:20.139 --> 01:25.251
+Variations of this sense, plan, act paradigm power many modern robots.
+
+01:25.520 --> 01:27.933
+And this loop goes around over and over and over,...
+
+01:28.364 --> 01:30.536
+...then you're continually sensing, planning and acting.
+
+01:30.799 --> 01:32.426
+And hopefully, if you've done everything right,...
+
+01:32.509 --> 01:35.034
+...it should produce the kind of behavior that you wanna see in a robot.
+

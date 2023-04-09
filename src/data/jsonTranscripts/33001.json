@@ -1,0 +1,17 @@
+[
+    "Here are a few tips that don't take a lot of time...",
+    "...but can have huge security benefits.",
+    "First, check if your data has been leaked.",
+    "The website Have I Been Pwned has a database of information that has been exposed.",
+    "You can input your info like an email address or old passwords...",
+    "...to see if that data has been leaked.",
+    "If it has, change those passwords right away.",
+    "Use a password manager, like LastPass or 1Password.",
+    "A password manager securely stores your passwords...",
+    "...and can help you generate unique ones that are hard to crack with brute-force hacking.",
+    "Additionally, setting up two-factor authentication for your accounts...",
+    "...can prevent someone who has that password from accessing that account.",
+    "If you're feeling overly vulnerable or paranoid,...",
+    "...you can even purchase a device like YubiKey...",
+    "...to add even more security to your accounts."
+]

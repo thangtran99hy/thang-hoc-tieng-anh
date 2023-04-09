@@ -1,0 +1,173 @@
+WEBVTT
+
+00:00.393 --> 00:03.864
+Wikipedia, on the other hand, begins with a very radical idea...
+
+00:04.583 --> 00:08.155
+...and that's for all of us to imagine a world in which every single person on the planet...
+
+00:08.672 --> 00:11.171
+...is given free access to the sum of all human knowledge.
+
+00:11.245 --> 00:12.157
+And that's what we're doing.
+
+00:13.447 --> 00:16.230
+So Wikipedia ; you just saw the little demonstration of it.
+
+00:17.134 --> 00:19.027
+It's a freely licensed encyclopedia.
+
+00:19.163 --> 00:22.612
+It's written by thousands of volunteers all over the world in many, many languages.
+
+00:23.771 --> 00:27.250
+It's written using Wiki software which is the type of software he just demonstrated...
+
+00:27.333 --> 00:31.207
+...so anyone can quickly edit and save and it goes live on the Internet immediately.
+
+00:32.998 --> 00:37.557
+And everything about Wikipedia is managed by virtually an all - volunteer staff.
+
+00:37.633 --> 00:42.119
+So, when Yochai is talking about new methods of organization,...
+
+00:42.206 --> 00:44.140
+...he's exactly describing Wikipedia.
+
+00:44.621 --> 00:49.268
+And what I'm gonna do today is tell you a little bit more about how it really works on the inside.
+
+00:50.349 --> 00:54.300
+So Wikipedia's owned by the Wikimedia Foundation, which I founded,...
+
+00:54.561 --> 00:56.002
+...a nonprofit organization.
+
+00:56.169 --> 00:59.755
+And our goal, the core aim of the Wikimedia Foundation,...
+
+01:00.235 --> 01:03.127
+...is to get a free encyclopedia to every single person on the planet.
+
+01:03.206 --> 01:04.895
+And so if you think about what that means,...
+
+01:05.213 --> 01:07.515
+...it means a lot more than just building a cool website.
+
+01:07.785 --> 01:11.927
+We're really interested in all the issues of the digital divide, poverty worldwide;...
+
+01:12.682 --> 01:17.023
+...empowering people everywhere to have the information that they need to make good decisions.
+
+01:17.093 --> 01:21.370
+And so we're gonna have to do a lot of work that goes beyond just the Internet.
+
+01:21.440 --> 01:24.295
+And so that's a big part of why we've chosen the free licensing model...
+
+01:24.686 --> 01:27.633
+...because that empowers local entrepreneurs or anyone who wants to...
+
+01:27.993 --> 01:29.917
+...can take our content and do anything they like with it.
+
+01:30.000 --> 01:34.333
+You can copy it, redistribute it and you can do it commercially or non - commercially.
+
+01:34.413 --> 01:36.697
+So, there's a lot of opportunities that are going to arise...
+
+01:36.873 --> 01:39.671
+...around Wikipedia all over the world.
+
+01:40.905 --> 01:42.585
+We're funded by donations from the public...
+
+01:42.774 --> 01:48.733
+...and one of the more interesting things about that is how little money it actually takes to run Wikipedia.
+
+01:49.197 --> 01:53.267
+So, Yochai showed you the graph of what the cost of a printing press was.
+
+01:53.764 --> 01:57.163
+And I'm gonna tell you what the cost of Wikipedia is,...
+
+01:57.239 --> 01:58.838
+...but first I'll show you how big it is.
+
+01:58.829 --> 02:02.891
+So, we've got over 600,000 articles in English.
+
+02:03.433 --> 02:07.551
+We've got two million total articles across many, many different languages.
+
+02:07.907 --> 02:10.318
+The biggest languages are German, Japanese, French.
+
+02:11.207 --> 02:13.569
+All the Western European languages are quite big.
+
+02:14.916 --> 02:19.829
+But only around one-third of all of our traffic to our web clusters to the English Wikipedia,...
+
+02:19.953 --> 02:21.360
+...which is surprising to a lot of people.
+
+02:21.421 --> 02:24.740
+A lot of people think in a very English - centric way on the Internet,...
+
+02:25.224 --> 02:27.046
+...but for us, we're truly global.
+
+02:27.133 --> 02:28.217
+We're in many, many languages.
+
+02:29.280 --> 02:34.383
+How popular we've gotten to be: we're a top 50 website and we're more popular than the New York Times.
+
+02:34.449 --> 02:38.796
+So, this is where we get to Yochai's discussion.
+
+02:39.367 --> 02:42.599
+This shows the growth of Wikipedia, we're the blue line there...
+
+02:42.673 --> 02:44.705
+...and then this is the New York Times over there.
+
+02:45.430 --> 02:48.652
+And what's interesting about this is the New York Times website...
+
+02:48.742 --> 02:50.869
+...is a huge, enormous corporate operation...
+
+02:51.135 --> 02:53.459
+...with, I have no idea how many, hundreds of employees.
+
+02:54.051 --> 02:58.265
+We have exactly one employee and that employee is our lead software developer.
+
+02:58.565 --> 03:03.083
+And he's only been our employee since January 2005, all the other growth before that.
+
+03:03.615 --> 03:07.199
+So, the servers are managed by a ragtag band of volunteers,...
+
+03:07.289 --> 03:08.964
+...all the editing is done by volunteers.
+
+03:09.295 --> 03:13.160
+And the way that we're organized is not like any traditional organization you can imagine.
+
+03:13.254 --> 03:16.913
+People are always asking, "Well, who's in charge of this?" or "Who does that?"
+
+03:17.261 --> 03:19.435
+And the answer is, anybody who wants to pitch in.
+
+03:19.527 --> 03:23.141
+It's a very unusual and chaotic thing.
+

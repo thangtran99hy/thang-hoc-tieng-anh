@@ -1,0 +1,47 @@
+WEBVTT
+
+00:00.800 --> 00:02.230
+Have you ever really wanted a beer,...
+
+00:05.200 --> 00:06.400
+...but you don't wanna stop working?
+
+00:10.480 --> 00:12.540
+At Willow Garage, we've solved this problem.
+
+00:14.540 --> 00:19.320
+We built a Web interface that has a menu of a number of different beers that you can select from.
+
+00:20.250 --> 00:23.860
+Once you select the beer of your choice, you can place it in the "beer bucket"...
+
+00:24.430 --> 00:27.960
+...and then, select the location of your choice for the robot to drive to.
+
+00:28.360 --> 00:32.160
+Once those two things are completed, you simply click the big "beer me" button...
+
+00:32.600 --> 00:34.640
+...and the robot comes to you to deliver your beer.
+
+00:35.730 --> 00:38.170
+In this process, the robot goes to the fridge,...
+
+00:38.470 --> 00:40.400
+...detects the handle of the fridge and opens it,...
+
+00:40.740 --> 00:45.470
+...looks inside of the fridge and uses its cameras to detect what kinds of beers are available.
+
+00:49.420 --> 00:51.230
+If the beers you've selected are not available,...
+
+00:51.390 --> 00:55.180
+...the robot will inform you that your choice is not available at this time.
+
+00:55.950 --> 00:58.920
+Otherwise, the robot picks the beers that you've selected from the fridge,...
+
+00:59.190 --> 01:04.650
+...puts them in the cup holders mounted on its base and delivers them to the location that you've selected.
+

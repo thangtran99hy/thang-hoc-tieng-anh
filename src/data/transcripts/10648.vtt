@@ -1,0 +1,71 @@
+WEBVTT
+
+00:00.011 --> 00:03.900
+Now that you know the basic terminology, how does Google know your social circle?
+
+00:04.500 --> 00:08.450
+Let me give you a mental model of how our social search works.
+
+00:09.250 --> 00:14.150
+Right now, we surface social content that we find in three different ways.
+
+00:14.300 --> 00:18.650
+The first way and the biggest in my mind is your public Google profile.
+
+00:19.100 --> 00:24.750
+A Google profile is just a place where you can choose to share information about yourself with the world...
+
+00:25.150 --> 00:28.600
+...including a list of your different online social services.
+
+00:28.800 --> 00:31.800
+For example, you can add a link to your Twitter account,...
+
+00:32.050 --> 00:36.050
+...your FriendFeed account, your blog or your Picasa albums.
+
+00:37.300 --> 00:41.450
+Bear in mind, it's your choice whether or not to create a Google profile...
+
+00:41.700 --> 00:45.200
+...and you can always add or remove any information from it.
+
+00:45.450 --> 00:50.550
+Once you've created a Google profile and added links to your various online social services,...
+
+00:50.950 --> 00:56.000
+...you've signalled a very clear choice that you're comfortable with the world knowing that information.
+
+00:56.350 --> 00:59.600
+Including that you're part of the other social networks you list there.
+
+01:00.050 --> 01:05.200
+Based on this opt-in decision, Google can start building a broader social graph.
+
+01:05.750 --> 01:08.700
+For example, take the link to my public Twitter account,...
+
+01:09.250 --> 01:12.400
+...Google can fetch my Twitter page, just like any web surfer...
+
+01:12.650 --> 01:15.500
+...and see that I'm following about a 180 people.
+
+01:15.800 --> 01:19.100
+Google will add these 180 people to my social circle.
+
+01:19.700 --> 01:23.650
+We also crawl one step further to build out your extended network.
+
+01:24.250 --> 01:26.900
+For example, if I'm following my best friend...
+
+01:27.150 --> 01:29.300
+...and he's following five different people,...
+
+01:29.850 --> 01:33.150
+...Google will add those five people to my extended social circle.
+
+01:33.450 --> 01:37.450
+Since it's likely that some of them will be connections of mine as well.
+

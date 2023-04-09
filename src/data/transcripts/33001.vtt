@@ -1,0 +1,47 @@
+WEBVTT
+
+00:00.050 --> 00:02.353
+Here are a few tips that don't take a lot of time...
+
+00:02.672 --> 00:04.791
+...but can have huge security benefits.
+
+00:05.117 --> 00:07.499
+First, check if your data has been leaked.
+
+00:08.033 --> 00:12.715
+The website Have I Been Pwned has a database of information that has been exposed.
+
+00:12.829 --> 00:16.593
+You can input your info like an email address or old passwords...
+
+00:16.677 --> 00:18.279
+...to see if that data has been leaked.
+
+00:18.480 --> 00:21.055
+If it has, change those passwords right away.
+
+00:21.284 --> 00:24.359
+Use a password manager, like LastPass or 1Password.
+
+00:24.521 --> 00:27.069
+A password manager securely stores your passwords...
+
+00:27.152 --> 00:31.055
+...and can help you generate unique ones that are hard to crack with brute-force hacking.
+
+00:31.569 --> 00:35.249
+Additionally, setting up two-factor authentication for your accounts...
+
+00:35.549 --> 00:38.953
+...can prevent someone who has that password from accessing that account.
+
+00:39.211 --> 00:41.917
+If you're feeling overly vulnerable or paranoid,...
+
+00:42.153 --> 00:44.469
+...you can even purchase a device like YubiKey...
+
+00:44.594 --> 00:46.541
+...to add even more security to your accounts.
+

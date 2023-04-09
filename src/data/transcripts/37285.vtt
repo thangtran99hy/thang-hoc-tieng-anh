@@ -1,0 +1,95 @@
+WEBVTT
+
+00:00.769 --> 00:02.571
+The overarching goal of Project Natick...
+
+00:02.822 --> 00:05.337
+...is to evaluate the feasibility of underwater data centers.
+
+00:05.807 --> 00:07.417
+Phase one was just to be able to figure out,...
+
+00:07.607 --> 00:09.396
+...can we get computers into a container...
+
+00:09.506 --> 00:11.399
+...and can we deploy them in the water without it leaking,..
+
+00:11.525 --> 00:14.001
+...and do the computers survive and how well do they last?
+
+00:14.495 --> 00:22.523
+Phase two was to show that we can make it in a manufacturable production scale component.
+
+00:22.967 --> 00:27.931
+So, the container behind me, it fits on a trailer, it fits on a cargo ship,...
+
+00:28.038 --> 00:32.780
+And it allows us to actually build up this data center to any size that we want.
+
+00:33.373 --> 00:38.184
+Computers are not designed to work in an environment that we humans operate.
+
+00:38.371 --> 00:41.920
+So, things like oxygen, moisture in the air,...
+
+00:42.359 --> 00:45.839
+...that is really bad for computers, it causes corrosion on the components.
+
+00:46.336 --> 00:48.231
+You also get temperature fluctuations.
+
+00:48.347 --> 00:52.597
+So, the heat from night to day and summer to winter can cause those components to fail...
+
+00:52.713 --> 00:55.225
+...and so we had this theory that if we're really in a stable environment,...
+
+00:55.491 --> 00:57.739
+...we're in this cylinder, we've taken all the oxygen out.
+
+00:57.818 --> 00:58.972
+We've controlled the humidity.
+
+00:59.321 --> 01:00.689
+No one's walking around.
+
+01:00.787 --> 01:03.800
+There's nobody bumping things and causing any additional failures...
+
+01:03.917 --> 01:05.137
+...that we'd see better reliability.
+
+01:05.744 --> 01:09.932
+And so far, as we've been monitoring this and the data center that we have on land...
+
+01:10.399 --> 01:11.758
+...that are using the same components,...
+
+01:11.922 --> 01:16.569
+...we see one-eighth the failure rate in the ocean data center than we do on land.
+
+01:17.465 --> 01:19.655
+We got some good data on reliability.
+
+01:19.890 --> 01:22.617
+We've proven out that we can do this whole deployment process.
+
+01:23.083 --> 01:26.000
+Now, let's finish the story and let's show that we can do the retrieval...
+
+01:26.076 --> 01:28.847
+...and we can do the recycling once it does reach end of life...
+
+01:29.120 --> 01:31.957
+...and make sure that that entire cycle is possible,
+
+01:33.446 --> 01:37.681
+This project gives us the ability to feel like we're working not just on computers,...
+
+01:37.776 --> 01:43.263
+...not just on data centers, but on sort of moving forward environmental responsibility...
+
+01:43.405 --> 01:45.131
+...as a company and as individuals.
+

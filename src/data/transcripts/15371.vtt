@@ -1,0 +1,134 @@
+WEBVTT
+
+00:09.328 --> 00:11.056
+Okay well, the reason we have Scrum is...
+
+00:11.135 --> 00:14.895
+...because I came into software development from a medical school.
+
+00:15.036 --> 00:21.775
+I had done 11 years funded by the National Cancer Institute's research on complex adaptive systems.
+
+00:21.917 --> 00:27.390
+And a large banking company hired me to come in and help them with their advanced technologies.
+
+00:27.961 --> 00:31.363
+And as I looked at the way they were managing projects,...
+
+00:32.049 --> 00:34.155
+...I realized developers were always late,...
+
+00:34.646 --> 00:38.169
+...management was always under pressure; they were putting pressure on the developers.
+
+00:38.674 --> 00:42.069
+The more pressure they would put on the developers, the later the project would get.
+
+00:42.636 --> 00:45.833
+And the whole thing was designed in such a way...
+
+00:46.385 --> 00:49.281
+...that the stable state of the system was not what you wanted.
+
+00:49.825 --> 00:53.056
+In order to do that, we had to change the whole dynamics.
+
+00:53.227 --> 00:58.897
+Now, what we knew from research at Bell Labs is that we had to have very few roles...
+
+00:59.033 --> 01:01.248
+...in the team that was doing software development.
+
+01:01.631 --> 01:07.222
+The specialized styles of activity slowed down communications and made it impossible to do.
+
+01:07.664 --> 01:10.112
+So, one of the first things we did was we set it up;...
+
+01:10.269 --> 01:12.302
+...we only had a team and we had a team leader.
+
+01:12.807 --> 01:17.847
+We read a paper by two Japanese business school professors on the best teams in the world.
+
+01:18.507 --> 01:22.936
+And they described how the best new product development teams were set up,...
+
+01:23.028 --> 01:26.205
+...how the teams were motivated; we set up the team just like that.
+
+01:27.008 --> 01:30.570
+The team wanted to know what we would call the team leader; we called him the scrum master.
+
+01:31.705 --> 01:37.981
+We then, as we got the role simplified, streamlined and leaned out all the system.
+
+01:38.451 --> 01:42.315
+We very quickly found we needed a person we called the product owner,...
+
+01:42.406 --> 01:43.567
+...in addition to the scrum master...
+
+01:43.667 --> 01:48.917
+...who is responsible for clearly specifying the backlog in the right ordering.
+
+01:49.009 --> 01:53.539
+So when we ship the product, it would really take the market as a really good product.
+
+01:53.994 --> 01:56.348
+So, we had the product owner, the Scrum master and the team.
+
+01:57.182 --> 02:02.586
+We then turned our attention to the meetings because in order to build software fast,...
+
+02:02.780 --> 02:07.150
+...you cannot have people going into meetings all the time where they're wasting a lot of time.
+
+02:07.234 --> 02:10.845
+So we asked, "What of the minimal meetings we need to have for scrum?"
+
+02:11.620 --> 02:15.506
+We knew we needed to deliver a software in short cycles, no more than four weeks.
+
+02:15.901 --> 02:19.164
+Probably the majority of the teams now are doing two - week sprints.
+
+02:19.800 --> 02:22.731
+So, we needed a meeting at the beginning of the sprint to define...
+
+02:22.872 --> 02:23.971
+..."What are we going to..."
+
+02:24.341 --> 02:28.335
+"...pull from the product backlog owned by the product owner into that two - week cycle?"
+
+02:29.095 --> 02:32.555
+"How are we going to implement it and track it?"
+
+02:33.788 --> 02:35.613
+A meeting at the beginning of the cycle,...
+
+02:35.729 --> 02:39.273
+...we also knew because again of research done by Bell Labs...
+
+02:39.345 --> 02:42.390
+...that the highest performing teams were driven by daily meeting.
+
+02:42.519 --> 02:44.714
+So, we knew we had to have the daily meeting.
+
+02:45.003 --> 02:47.041
+But we wanted it to be a really short meeting...
+
+02:47.142 --> 02:49.731
+...and we got it down to no more than 15 minutes.
+
+02:50.309 --> 02:55.325
+And in that meeting, everybody on the team needs to know what everybody else has been doing,...
+
+02:55.533 --> 03:00.027
+...what they're going to do next and how they can help one another move really fast.
+
+03:00.913 --> 03:05.027
+So, it's like a huddle in a football game but a little bit longer than a huddle.
+

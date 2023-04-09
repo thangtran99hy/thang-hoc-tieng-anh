@@ -1,0 +1,62 @@
+WEBVTT
+
+00:02.550 --> 00:06.400
+Hi, my name is Matt Cutts and I work in Google Search Quality Group.
+
+00:06.750 --> 00:10.550
+Today, I'm gonna tell you a bit about how Google Social Search works.
+
+00:10.750 --> 00:16.150
+Google Social Search is a new experiment to help you find publicly available Web content...
+
+00:16.500 --> 00:20.850
+...from your social circle quickly and more easily in Google Search.
+
+00:21.100 --> 00:23.500
+First, let me give you some context.
+
+00:24.150 --> 00:28.650
+Today on the Internet, people have many different places where they make social connections...
+
+00:28.850 --> 00:34.750
+...and publish web content like blogs, status updates, Tweets and pictures.
+
+00:35.250 --> 00:39.550
+People choose to publish much of this content publicly for everyone to see.
+
+00:40.150 --> 00:44.250
+For example, I have a Twitter account where I follow more than a hundred people.
+
+00:45.150 --> 00:50.250
+Anyone browsing on the Web today can visit my Twitter page and see the Tweets I've been writing.
+
+00:50.400 --> 00:54.300
+Anyone can also see the list of people I'm following on Twitter.
+
+00:55.000 --> 00:57.800
+I also write a public blog, and have a FriendFeed account.
+
+00:58.250 --> 01:03.000
+These various online social services create an implicit network of connections...
+
+01:03.250 --> 01:05.400
+...which we like to call, your social circle.
+
+01:06.100 --> 01:09.200
+For example, I'm following Leo Laporte on Twitter,...
+
+01:10.250 --> 01:12.600
+...and on FriendFeed, I follow Danny Sullivan.
+
+01:13.850 --> 01:15.950
+There's also an extended social circle...
+
+01:16.100 --> 01:18.950
+...which is the set of people that Leo and Danny follow.
+
+01:19.650 --> 01:22.400
+With Google Social Search, we've managed to pull...
+
+01:22.450 --> 01:26.200
+...different pieces of your public social circle together in a single place.
+

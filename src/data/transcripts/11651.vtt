@@ -1,0 +1,74 @@
+WEBVTT
+
+00:00.900 --> 00:06.400
+So, this is the heart of a data center. It's a server room. It's one of the ten giant server rooms...
+
+00:06.940 --> 00:11.310
+...at this particular center with as many as 30,000 servers,...
+
+00:11.610 --> 00:15.710
+...and each of them all possess a vast amount of computing power, and an awful lot of storage.
+
+00:15.940 --> 00:20.150
+And all part really of this big ramping output of cloud computers.
+
+00:20.910 --> 00:24.590
+And here's Mike Menaz from Microsoft, you run the data center operations.
+
+00:24.990 --> 00:29.520
+Mike, just give us a sense of the scale, how much can be stored in a place like this?
+
+00:29.720 --> 00:33.330
+Well, I did a little calculations and if we apply it to something that everyone likes to do,...
+
+00:33.430 --> 00:35.460
+...which is storing pictures up on the Internet,...
+
+00:36.970 --> 00:42.070
+...a facility of this size can house somewhere in the neighborhood of 6.75 trillion photos...
+
+00:42.740 --> 00:44.800
+...for the users of our cloud applications.
+
+00:45.020 --> 00:49.010
+Now, people will be worried about a couple of things. They'll be worried about security...
+
+00:49.910 --> 00:54.720
+...in terms of people getting hold of their data. They'll be worried about what happens if a place like this shuts down.
+
+00:55.480 --> 01:01.360
+Well, from a security perspective and from a redundancy perspective, a facility like this is pretty hardened.
+
+01:01.990 --> 01:05.690
+As you probably saw as you came in, security is pretty tight on the outside.
+
+01:06.260 --> 01:09.100
+Logically, in terms of getting access to your data,...
+
+01:09.330 --> 01:13.440
+...we have pretty significant security measures deployed to protect the users.
+
+01:13.640 --> 01:17.740
+If the facility were to go down, if there was a catastrophic event, for example,...
+
+01:18.710 --> 01:22.740
+...we have the ability in our application software, in our cloud infrastructure,...
+
+01:22.910 --> 01:25.550
+...to fill all of this over to other facilities.
+
+01:25.910 --> 01:29.650
+So, you'll never have an issue of not being able to get to your data...
+
+01:29.720 --> 01:31.050
+...wherever you happen to be from.
+
+01:31.250 --> 01:34.790
+OK, Mike. Thank you very much! So, that's one data center.
+
+01:35.060 --> 01:39.990
+Part of this huge battle developing in the clouds between the likes of Microsoft, Google, and Amazon...
+
+01:40.500 --> 01:43.400
+...to take us into the future of cloud computing.
+

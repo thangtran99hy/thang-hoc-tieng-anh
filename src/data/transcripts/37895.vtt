@@ -1,0 +1,71 @@
+WEBVTT
+
+00:00.155 --> 00:02.727
+The Google Data Center in Dublin, Ireland.
+
+00:03.557 --> 00:06.623
+The scale of what we do here can be kind of crazy.
+
+00:07.238 --> 00:09.879
+Millions of searches a day goes through those machines.
+
+00:10.326 --> 00:12.741
+That's why they're very loud and they produce lots of heat.
+
+00:12.783 --> 00:16.056
+That means they're constantly working, constantly answering your queries.
+
+00:17.562 --> 00:20.754
+And so how do we really store the web, so to speak?
+
+00:21.718 --> 00:25.543
+The way to think about it is we take the internet, download it,...
+
+00:25.900 --> 00:33.575
+...index it, and chop it into small pieces, and then each server has a small piece.
+
+00:34.585 --> 00:37.467
+All of the servers for that data center work together...
+
+00:37.524 --> 00:40.275
+...to each search their little part of the internet.
+
+00:41.140 --> 00:44.515
+And it literally takes millions of servers and hard drives...
+
+00:44.659 --> 00:46.649
+...to be able to support the world's websites.
+
+00:47.919 --> 00:52.392
+So each of these data centers has a complete copy of the web.
+
+00:53.347 --> 00:57.435
+So if you're in France or if you're in South Africa, you're not sending...
+
+00:57.538 --> 01:00.019
+...a query that goes through the wires on underwater cables...
+
+01:00.143 --> 01:02.849
+...and comes from Mountain View, asks that question, then we send it back.
+
+01:03.601 --> 01:04.498
+That's just not possible.
+
+01:04.680 --> 01:06.801
+That's never going to work as a solution that's fast.
+
+01:07.899 --> 01:11.360
+How it actually works is you go into Google and you type in a search,..
+
+01:14.349 --> 01:18.555
+...then we direct your query to the data center that is closest.
+
+01:19.059 --> 01:22.297
+And so that's actually the reason why we have data centers everywhere,...
+
+01:22.595 --> 01:25.065
+...because we want to be close to the users that we're serving.
+
+01:25.427 --> 01:29.813
+Because that's the only way to get you the most accurate response as fast as possible.
+
