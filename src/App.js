@@ -14,7 +14,7 @@ import Book from './pages/Book';
 import EffortlessEnglish from './pages/EffortlessEnglish';
 import { useState } from 'react';
 function App() {
-  const [tabActive, setTabActive] = useState(null);
+  const [tabActive, setTabActive] = useState('music');
   const tabs = [
     {
       code: 'music',
@@ -66,8 +66,8 @@ function App() {
   };
   return (
     <div className="flex flex-col h-[100vh]">
-      <div className="flex flex-col items-center h-[60px]">
-        <div className="text-gray-600 text-xs font-semibold">
+      <div className="flex flex-col items-center h-[72px] pt-1">
+        <div className="text-gray-600 text-sm font-semibold">
           Thắng Nói Tiếng Anh
         </div>
         <img
@@ -76,7 +76,7 @@ function App() {
         />
       </div>
       <Tabs
-        defaultValue={'video'}
+        defaultValue={'music'}
         className="App_container"
         items={tabs.map((tab, i) => {
           return {
