@@ -321,39 +321,35 @@ const Video = (props) => {
           footer={null}
           className="w-[1200px] top-[16px]"
         >
-          {play ? (
-            <div>
-              <Tabs
-                defaultValue={'video'}
-                onChange={(value) => {
-                  setTabActive(null);
-                  setTimeout(() => {
-                    setTabActive(value);
-                  }, 200);
-                }}
-                items={[
-                  {
-                    label: 'Video',
-                    key: 'video',
-                    children: <></>,
-                  },
-                  {
-                    label: 'Audio',
-                    key: 'audio',
-                    children: <></>,
-                  },
-                  {
-                    label: 'Slow audio',
-                    key: 'slowAudio',
-                    children: <></>,
-                  },
-                ]}
-              />
-              <div>{showPlayTabView()}</div>
-            </div>
-          ) : (
-            <></>
-          )}
+          <div>
+            <Tabs
+              defaultValue={'video'}
+              onChange={(value) => {
+                setTabActive(null);
+                setTimeout(() => {
+                  setTabActive(value);
+                }, 200);
+              }}
+              items={[
+                {
+                  label: 'Video',
+                  key: 'video',
+                  children: <></>,
+                },
+                {
+                  label: 'Audio',
+                  key: 'audio',
+                  children: <></>,
+                },
+                {
+                  label: 'Slow audio',
+                  key: 'slowAudio',
+                  children: <></>,
+                },
+              ]}
+            />
+            <div>{showPlayTabView()}</div>
+          </div>
         </Modal>
       )}
     </div>
