@@ -208,11 +208,10 @@ const Video = (props) => {
   useEffect(() => {
     setTabActive('video');
   }, [play]);
-  console.log('tabActive', tabActive);
   const allLevels = [1, 2, 3, 4, 5, 6, 7];
   return (
     <div className="margin-auto flex flex-col items-center  h-full w-full">
-      <Space className="margin-auto p-2 flex items-center flex-wrap">
+      <Space className="margin-auto p-2 flex items-center justify-center flex-wrap">
         <Search
           placeholder="Enter keyword"
           value={searchInput}
