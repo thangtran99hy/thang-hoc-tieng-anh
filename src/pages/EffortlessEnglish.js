@@ -116,7 +116,7 @@ const EffortlessEnglish = (props) => {
                   },
                   {
                     key: 'lessonOrder',
-                    label: 'Transcript Audio',
+                    label: 'Lesson Order',
                     children: (
                       <img
                         src={`https://drive.google.com/uc?export=view&id=${dataBooks.lessonOrder}`}
