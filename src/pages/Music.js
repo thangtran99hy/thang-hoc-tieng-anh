@@ -183,15 +183,20 @@ const Music = (props) => {
           setPlay(null);
         }}
         footer={null}
+        className="w-[1500px] top-[16px]"
       >
         {play && (
-          <div>
+          <div
+            style={{
+              height: 'calc(100vh - 120px)',
+            }}
+          >
             <iframe
-              width="420"
-              height="345"
-              src={`http://www.youtube.com/embed/${play.id}?autoplay=1`}
-              frameborder="0"
-              allowfullscreen
+              width="100%"
+              height="100%"
+              src={`http://www.youtube.com/embed/${play.id}?autoplay=1&loop=1&color=white`}
+              allowfullscreen="allowfullscreen"
+              frameborder={0}
             />
           </div>
         )}
