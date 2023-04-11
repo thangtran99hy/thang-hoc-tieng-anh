@@ -194,7 +194,7 @@ const Music = (props) => {
             <iframe
               width="100%"
               height="100%"
-              src={`http://www.youtube.com/embed/${play.id}`}
+              src={`https://www.youtube.com/embed/${play.id}`}
               // src="https://www.youtube.com/embed/NmugSMBh_iI"
               frameborder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
